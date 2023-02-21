@@ -10,7 +10,8 @@ import lombok.Setter;
 @Getter
 @Setter
 
-public class TestNotFoundException extends Exception {
+public class TestNotFoundException extends RuntimeException {
+	private static final long serialVersionUID = 198956L;
 	private String message;
 
 }

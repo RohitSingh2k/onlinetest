@@ -10,7 +10,8 @@ import lombok.Setter;
 @Getter
 @Setter
 
-public class UserAlreadyExistException extends Exception {
+public class UserAlreadyExistException extends RuntimeException {
 
+	private static final long serialVersionUID = 19865542L;
 	private String message;
 }

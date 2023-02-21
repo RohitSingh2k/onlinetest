@@ -1,8 +1,8 @@
 package com.onlinetestmanagementsystem.service;
 
 import java.util.List;
+import java.util.Optional;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.onlinetestmanagementsystem.exception.QuestionAlreadyExistException;
@@ -10,57 +10,81 @@ import com.onlinetestmanagementsystem.exception.QuestionNotFoundException;
 import com.onlinetestmanagementsystem.model.Question;
 import com.onlinetestmanagementsystem.repositories.QuestionRepo;
 
+import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;
 
 @Service
 @Log4j2
+@RequiredArgsConstructor
 public class QuestionServiceImpl implements QuestionService {
 
-	@Autowired
-	QuestionRepo questionRepo;
+	private final QuestionRepo questionRepo;
 
 	@Override
 	public Question addQuestion(Question question) throws QuestionAlreadyExistException {
+		log.debug("Adding question to database : {}", question);
+
 		if (question.getQuestionId() != null && questionRepo.existsById(question.getQuestionId())) {
-			log.warn("Question Already Exist");
-			throw new QuestionAlreadyExistException();
+			throw new QuestionAlreadyExistException("Question Already Exist");
 		}
+
 		return questionRepo.save(question);
 	}
 
 	@Override
-	public Question updateQuestion(Long questionId, Question question) throws QuestionNotFoundException {
-		if (questionId == null || !questionRepo.existsById(questionId)) {
-			log.error("Question Not Found");
-			throw new QuestionNotFoundException();
+	public void updateQuestion(Long questionId, Question question) throws QuestionNotFoundException {
+		log.debug("Finding question by questionId: {}", questionId);
+
+		Optional<Question> fetchedQuestion = questionRepo.findById(questionId);
+
+		if (fetchedQuestion.isPresent()) {
+			log.debug("Question found in database");
+			question.setQuestionId(questionId);
+			
+			questionRepo.save(question);
 		} else {
-			return questionRepo.save(question);
+			throw new QuestionNotFoundException("Question not found in database.");
 		}
 	}
 
 	@Override
-	public String deleteQuestion(Long questionId) throws QuestionNotFoundException {
+	public void deleteQuestion(Long questionId) throws QuestionNotFoundException {
+		log.debug("Deleting question of questionId: {}", questionId);
 
-		if (questionRepo.existsById(questionId)) {
+		Optional<Question> question = questionRepo.findById(questionId);
+
+		if (question.isPresent()) {
+			log.debug("Question found in database");
 			questionRepo.deleteById(questionId);
-			log.info("Question Deleted Successfully");
-			return "Question Deleted Successfully";
 		} else {
-			log.error("Question Not Found");
-			throw new QuestionNotFoundException();
+			throw new QuestionNotFoundException("Question not found in database.");
 		}
 
 	}
 
 	@Override
-	public List<Question> showQuestionList() throws QuestionNotFoundException {
+	public List<Question> fetchAllQuestions() throws QuestionNotFoundException {
+		log.debug("Fetching all the questions");
 
 		List<Question> questions = (List<Question>) questionRepo.findAll();
+
 		if (!questions.isEmpty()) {
 			return questions;
 		} else {
-			log.error("Question Not Found");
-			throw new QuestionNotFoundException();
+			throw new QuestionNotFoundException("Question table is empty");
+		}
+	}
+
+	@Override
+	public Question getQuestion(Long questionId) throws QuestionNotFoundException {
+		log.debug("Getting question by questionId: {}", questionId);
+
+		Optional<Question> question = questionRepo.findById(questionId);
+
+		if (question.isPresent()) {
+			return question.get();
+		} else {
+			throw new QuestionNotFoundException("Question not found");
 		}
 	}
 

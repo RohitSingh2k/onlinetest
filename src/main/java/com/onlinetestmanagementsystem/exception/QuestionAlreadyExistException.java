@@ -9,7 +9,8 @@ import lombok.Setter;
 @AllArgsConstructor
 @Getter
 @Setter
-public class QuestionAlreadyExistException extends Exception {
+public class QuestionAlreadyExistException extends RuntimeException {
 
+	private static final long serialVersionUID = 1098L;
 	private String message;
 }

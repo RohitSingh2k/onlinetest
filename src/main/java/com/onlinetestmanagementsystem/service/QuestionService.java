@@ -10,10 +10,12 @@ public interface QuestionService {
 
 	public Question addQuestion(Question question) throws QuestionAlreadyExistException;
 
-	public String deleteQuestion(Long questionId) throws QuestionNotFoundException;
+	public void deleteQuestion(Long questionId) throws QuestionNotFoundException;
 
-	public Question updateQuestion(Long questionId, Question question) throws QuestionNotFoundException;
+	public void updateQuestion(Long questionId, Question question) throws QuestionNotFoundException;
 
-	public List<Question> showQuestionList() throws QuestionNotFoundException;
+	public List<Question> fetchAllQuestions() throws QuestionNotFoundException;
+	
+	public Question getQuestion(Long questionId) throws QuestionNotFoundException;
 
 }

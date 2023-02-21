@@ -9,8 +9,9 @@ import lombok.Setter;
 @AllArgsConstructor
 @Getter
 @Setter
-
-public class QuestionNotFoundException extends Exception {
+public class QuestionNotFoundException extends RuntimeException {
+	private static final long serialVersionUID = 1874658L;
+	
 	private String message;
 
 }
