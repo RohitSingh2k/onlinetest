@@ -1,0 +1,772 @@
+2023-02-02 19:52:15,699 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 19972 (C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem)
+2023-02-02 19:52:15,705 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-02 19:52:15,706 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-02 19:52:18,939 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 3.526 seconds (JVM running for 4.43)
+2023-02-02 20:00:44,736 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 3764 (C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem)
+2023-02-02 20:00:44,745 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-02 20:00:44,746 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-02 20:00:48,348 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 3.93 seconds (JVM running for 5.015)
+2023-02-02 20:12:36,347 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 3764 (C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem)
+2023-02-02 20:12:36,347 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-02 20:12:36,348 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-02 20:12:37,152 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.85 seconds (JVM running for 713.82)
+2023-02-02 22:31:45,743 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 14268 (C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem)
+2023-02-02 22:31:45,750 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-02 22:31:45,750 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-02 22:31:48,986 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 3.53 seconds (JVM running for 4.443)
+2023-02-02 22:34:22,314 ERROR c.o.s.UserServiceImpl [http-nio-8080-exec-10] Test not found
+2023-02-02 22:34:46,419 ERROR c.o.s.UserServiceImpl [http-nio-8080-exec-6] Question not found
+2023-02-02 23:40:33,678 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 18184 (C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem)
+2023-02-02 23:40:33,684 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-02 23:40:33,684 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-02 23:40:36,346 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 2.891 seconds (JVM running for 3.641)
+2023-02-02 23:45:29,527 ERROR c.o.s.UserServiceImpl [http-nio-8080-exec-7] Question Not Found
+2023-02-02 23:46:20,911 INFO c.o.s.UserServiceImpl [http-nio-8080-exec-8] Question Deleted Successfully
+2023-02-02 23:47:45,511 ERROR c.o.s.UserServiceImpl [http-nio-8080-exec-10] Test Not Found
+2023-02-02 23:49:17,900 INFO c.o.s.UserServiceImpl [http-nio-8080-exec-2] Test Deleted Successfully
+2023-02-03 00:04:13,492 WARN c.o.s.UserServiceImpl [http-nio-8080-exec-5] User Already Exist
+2023-02-03 00:33:13,595 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 18184 (C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem)
+2023-02-03 00:33:13,596 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-03 00:33:13,596 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-03 00:33:14,627 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 1.087 seconds (JVM running for 3161.928)
+2023-02-03 01:22:44,895 INFO c.o.s.UserServiceTest [main] Starting UserServiceTest using Java 17.0.5 on lin33002318 with PID 17988 (started by rshaw8 in C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem)
+2023-02-03 01:22:44,903 DEBUG c.o.s.UserServiceTest [main] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-03 01:22:44,903 INFO c.o.s.UserServiceTest [main] No active profile set, falling back to 1 default profile: "default"
+2023-02-03 01:22:49,435 INFO c.o.s.UserServiceTest [main] Started UserServiceTest in 4.783 seconds (JVM running for 6.075)
+2023-02-03 01:22:49,666 ERROR o.s.t.c.TestContextManager [main] Caught exception while allowing TestExecutionListener [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@4ebd0b52] to prepare test instance [com.onlinetestmanagementsystem.service.UserServiceTest@65a01901]
+org.mockito.exceptions.base.MockitoException: 
+Cannot instantiate @InjectMocks field named 'userService'! Cause: the type 'UserService' is an interface.
+You haven't provided the instance at field declaration so I tried to construct the instance.
+Examples of correct usage of @InjectMocks:
+   @InjectMocks Service service = new Service();
+   @InjectMocks Service service;
+   //and... don't forget about some @Mocks for injection :)
+
+	at org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener.initMocks(MockitoTestExecutionListener.java:83) ~[spring-boot-test-2.7.8.jar:2.7.8]
+	at org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener.prepareTestInstance(MockitoTestExecutionListener.java:60) ~[spring-boot-test-2.7.8.jar:2.7.8]
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:248) ~[spring-test-5.3.25.jar:5.3.25]
+	at org.springframework.test.context.junit.jupiter.SpringExtension.postProcessTestInstance(SpringExtension.java:138) ~[spring-test-5.3.25.jar:5.3.25]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$8(ClassBasedTestDescriptor.java:363) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.executeAndMaskThrowable(ClassBasedTestDescriptor.java:368) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$9(ClassBasedTestDescriptor.java:363) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:310) ~[?:?]
+	at java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:735) ~[?:?]
+	at java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:734) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.invokeTestInstancePostProcessors(ClassBasedTestDescriptor.java:362) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$instantiateAndPostProcessTestInstance$6(ClassBasedTestDescriptor.java:283) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.instantiateAndPostProcessTestInstance(ClassBasedTestDescriptor.java:282) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$4(ClassBasedTestDescriptor.java:272) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at java.util.Optional.orElseGet(Optional.java:364) ~[?:?]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$5(ClassBasedTestDescriptor.java:271) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.jupiter.engine.execution.TestInstancesProvider.getTestInstances(TestInstancesProvider.java:31) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$prepare$0(TestMethodTestDescriptor.java:102) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:101) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:66) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$prepare$2(NodeTestTask.java:123) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.prepare(NodeTestTask.java:123) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:90) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:147) ~[.cp/:?]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:127) ~[.cp/:?]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:90) ~[.cp/:?]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:55) ~[.cp/:?]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:102) ~[.cp/:?]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:54) ~[.cp/:?]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114) ~[.cp/:?]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:95) ~[.cp/:?]
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:91) ~[.cp/:?]
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:60) ~[.cp/:?]
+	at org.eclipse.jdt.internal.junit5.runner.JUnit5TestReference.run(JUnit5TestReference.java:98) ~[.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40) ~[.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529) ~[.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756) ~[.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:452) ~[.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210) ~[.cp/:?]
+2023-02-03 01:23:47,172 INFO c.o.s.UserServiceTest [main] Starting UserServiceTest using Java 17.0.5 on lin33002318 with PID 22628 (started by rshaw8 in C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem)
+2023-02-03 01:23:47,179 DEBUG c.o.s.UserServiceTest [main] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-03 01:23:47,179 INFO c.o.s.UserServiceTest [main] No active profile set, falling back to 1 default profile: "default"
+2023-02-03 01:23:52,126 INFO c.o.s.UserServiceTest [main] Started UserServiceTest in 5.217 seconds (JVM running for 6.418)
+2023-02-03 01:23:52,362 ERROR o.s.t.c.TestContextManager [main] Caught exception while allowing TestExecutionListener [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@4a15d5f5] to prepare test instance [com.onlinetestmanagementsystem.service.UserServiceTest@5319efc0]
+org.mockito.exceptions.base.MockitoException: 
+Cannot instantiate @InjectMocks field named 'userService'! Cause: the type 'UserService' is an interface.
+You haven't provided the instance at field declaration so I tried to construct the instance.
+Examples of correct usage of @InjectMocks:
+   @InjectMocks Service service = new Service();
+   @InjectMocks Service service;
+   //and... don't forget about some @Mocks for injection :)
+
+	at org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener.initMocks(MockitoTestExecutionListener.java:83) ~[spring-boot-test-2.7.8.jar:2.7.8]
+	at org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener.prepareTestInstance(MockitoTestExecutionListener.java:60) ~[spring-boot-test-2.7.8.jar:2.7.8]
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:248) ~[spring-test-5.3.25.jar:5.3.25]
+	at org.springframework.test.context.junit.jupiter.SpringExtension.postProcessTestInstance(SpringExtension.java:138) ~[spring-test-5.3.25.jar:5.3.25]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$8(ClassBasedTestDescriptor.java:363) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.executeAndMaskThrowable(ClassBasedTestDescriptor.java:368) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$9(ClassBasedTestDescriptor.java:363) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:310) ~[?:?]
+	at java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:735) ~[?:?]
+	at java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:734) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.invokeTestInstancePostProcessors(ClassBasedTestDescriptor.java:362) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$instantiateAndPostProcessTestInstance$6(ClassBasedTestDescriptor.java:283) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.instantiateAndPostProcessTestInstance(ClassBasedTestDescriptor.java:282) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$4(ClassBasedTestDescriptor.java:272) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at java.util.Optional.orElseGet(Optional.java:364) ~[?:?]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$5(ClassBasedTestDescriptor.java:271) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.jupiter.engine.execution.TestInstancesProvider.getTestInstances(TestInstancesProvider.java:31) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$prepare$0(TestMethodTestDescriptor.java:102) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:101) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:66) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$prepare$2(NodeTestTask.java:123) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.prepare(NodeTestTask.java:123) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:90) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:147) ~[.cp/:?]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:127) ~[.cp/:?]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:90) ~[.cp/:?]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:55) ~[.cp/:?]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:102) ~[.cp/:?]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:54) ~[.cp/:?]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114) ~[.cp/:?]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:95) ~[.cp/:?]
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:91) ~[.cp/:?]
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:60) ~[.cp/:?]
+	at org.eclipse.jdt.internal.junit5.runner.JUnit5TestReference.run(JUnit5TestReference.java:98) ~[.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40) ~[.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529) ~[.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756) ~[.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:452) ~[.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210) ~[.cp/:?]
+2023-02-03 01:25:25,677 INFO c.o.s.UserServiceTest [main] Starting UserServiceTest using Java 17.0.5 on lin33002318 with PID 12060 (started by rshaw8 in C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem)
+2023-02-03 01:25:25,684 DEBUG c.o.s.UserServiceTest [main] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-03 01:25:25,685 INFO c.o.s.UserServiceTest [main] No active profile set, falling back to 1 default profile: "default"
+2023-02-03 01:25:30,317 INFO c.o.s.UserServiceTest [main] Started UserServiceTest in 4.861 seconds (JVM running for 6.081)
+2023-02-03 01:25:30,476 ERROR o.s.t.c.TestContextManager [main] Caught exception while allowing TestExecutionListener [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@2ec258f1] to prepare test instance [com.onlinetestmanagementsystem.service.UserServiceTest@3074575a]
+org.mockito.exceptions.base.MockitoException: 
+Cannot instantiate @InjectMocks field named 'userService'! Cause: the type 'UserService' is an interface.
+You haven't provided the instance at field declaration so I tried to construct the instance.
+Examples of correct usage of @InjectMocks:
+   @InjectMocks Service service = new Service();
+   @InjectMocks Service service;
+   //and... don't forget about some @Mocks for injection :)
+
+	at org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener.initMocks(MockitoTestExecutionListener.java:83) ~[spring-boot-test-2.7.8.jar:2.7.8]
+	at org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener.prepareTestInstance(MockitoTestExecutionListener.java:60) ~[spring-boot-test-2.7.8.jar:2.7.8]
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:248) ~[spring-test-5.3.25.jar:5.3.25]
+	at org.springframework.test.context.junit.jupiter.SpringExtension.postProcessTestInstance(SpringExtension.java:138) ~[spring-test-5.3.25.jar:5.3.25]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$8(ClassBasedTestDescriptor.java:363) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.executeAndMaskThrowable(ClassBasedTestDescriptor.java:368) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$9(ClassBasedTestDescriptor.java:363) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:310) ~[?:?]
+	at java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:735) ~[?:?]
+	at java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:734) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.invokeTestInstancePostProcessors(ClassBasedTestDescriptor.java:362) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$instantiateAndPostProcessTestInstance$6(ClassBasedTestDescriptor.java:283) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.instantiateAndPostProcessTestInstance(ClassBasedTestDescriptor.java:282) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$4(ClassBasedTestDescriptor.java:272) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at java.util.Optional.orElseGet(Optional.java:364) ~[?:?]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$5(ClassBasedTestDescriptor.java:271) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.jupiter.engine.execution.TestInstancesProvider.getTestInstances(TestInstancesProvider.java:31) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$prepare$0(TestMethodTestDescriptor.java:102) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:101) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:66) ~[junit-jupiter-engine-5.8.2.jar:5.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$prepare$2(NodeTestTask.java:123) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.prepare(NodeTestTask.java:123) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:90) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54) ~[junit-platform-engine-1.8.2.jar:1.8.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:147) ~[.cp/:?]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:127) ~[.cp/:?]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:90) ~[.cp/:?]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:55) ~[.cp/:?]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:102) ~[.cp/:?]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:54) ~[.cp/:?]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114) ~[.cp/:?]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:95) ~[.cp/:?]
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:91) ~[.cp/:?]
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:60) ~[.cp/:?]
+	at org.eclipse.jdt.internal.junit5.runner.JUnit5TestReference.run(JUnit5TestReference.java:98) ~[.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40) ~[.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529) ~[.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756) ~[.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:452) ~[.cp/:?]
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210) ~[.cp/:?]
+2023-02-03 01:27:55,242 INFO c.o.s.UserServiceTest [main] Starting UserServiceTest using Java 17.0.5 on lin33002318 with PID 3988 (started by rshaw8 in C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem)
+2023-02-03 01:27:55,249 DEBUG c.o.s.UserServiceTest [main] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-03 01:27:55,250 INFO c.o.s.UserServiceTest [main] No active profile set, falling back to 1 default profile: "default"
+2023-02-03 01:27:59,727 INFO c.o.s.UserServiceTest [main] Started UserServiceTest in 4.728 seconds (JVM running for 5.907)
+2023-02-03 01:45:24,276 INFO c.o.s.UserServiceTest [main] Starting UserServiceTest using Java 17.0.5 on lin33002318 with PID 23376 (started by rshaw8 in C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem)
+2023-02-03 01:45:24,284 DEBUG c.o.s.UserServiceTest [main] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-03 01:45:24,285 INFO c.o.s.UserServiceTest [main] No active profile set, falling back to 1 default profile: "default"
+2023-02-03 01:45:29,058 INFO c.o.s.UserServiceTest [main] Started UserServiceTest in 5.013 seconds (JVM running for 6.233)
+2023-02-03 01:53:21,354 INFO c.o.s.UserServiceTest [main] Starting UserServiceTest using Java 17.0.5 on lin33002318 with PID 15208 (started by rshaw8 in C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem)
+2023-02-03 01:53:21,361 DEBUG c.o.s.UserServiceTest [main] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-03 01:53:21,361 INFO c.o.s.UserServiceTest [main] No active profile set, falling back to 1 default profile: "default"
+2023-02-03 01:53:25,953 INFO c.o.s.UserServiceTest [main] Started UserServiceTest in 4.837 seconds (JVM running for 6.084)
+2023-02-03 02:06:55,898 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 4772 (C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem)
+2023-02-03 02:06:55,906 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-03 02:06:55,907 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-03 02:06:58,605 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 2.961 seconds (JVM running for 3.736)
+2023-02-03 02:10:08,503 ERROR c.o.s.UserServiceImpl [http-nio-8080-exec-1] Question Not Found
+2023-02-03 02:10:34,254 ERROR c.o.s.UserServiceImpl [http-nio-8080-exec-2] Test Not Found
+2023-02-03 02:13:01,117 WARN c.o.s.UserServiceImpl [http-nio-8080-exec-5] User Already Exist
+2023-02-03 02:16:56,172 WARN c.o.s.UserServiceImpl [http-nio-8080-exec-9] Question Already Exist
+2023-02-03 02:20:34,429 WARN c.o.s.UserServiceImpl [http-nio-8080-exec-1] User Already Exist
+2023-02-03 02:22:20,844 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 4772 (C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem)
+2023-02-03 02:22:20,845 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-03 02:22:20,845 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-03 02:22:21,587 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.783 seconds (JVM running for 926.722)
+2023-02-03 02:23:58,152 WARN c.o.s.UserServiceImpl [http-nio-8080-exec-2] Test Already Exist
+2023-02-03 02:25:17,523 WARN c.o.s.UserServiceImpl [http-nio-8080-exec-4] Test Already Exist
+2023-02-03 02:29:03,550 ERROR c.o.s.UserServiceImpl [http-nio-8080-exec-8] Test Not Found
+2023-02-03 02:33:56,039 ERROR c.o.s.UserServiceImpl [http-nio-8080-exec-4] Question Not Found
+2023-02-03 02:42:36,616 ERROR c.o.s.UserServiceImpl [http-nio-8080-exec-8] Test Not Found
+2023-02-03 02:42:49,240 ERROR c.o.s.UserServiceImpl [http-nio-8080-exec-9] Test Not Found
+2023-02-03 02:50:04,623 WARN c.o.s.UserServiceImpl [http-nio-8080-exec-5] Question Already Exist
+2023-02-03 09:50:42,861 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 5760 (C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem)
+2023-02-03 09:50:42,879 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-03 09:50:42,879 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-03 09:50:47,422 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 4.876 seconds (JVM running for 6.127)
+2023-02-03 09:53:55,419 WARN c.o.s.UserServiceImpl [http-nio-8080-exec-4] User Already Exist
+2023-02-03 09:54:55,544 WARN c.o.s.UserServiceImpl [http-nio-8080-exec-2] Question Already Exist
+2023-02-03 09:55:57,244 WARN c.o.s.UserServiceImpl [http-nio-8080-exec-8] Test Already Exist
+2023-02-03 10:04:14,081 INFO c.o.s.UserServiceImpl [http-nio-8080-exec-10] Question Deleted Successfully
+2023-02-03 10:04:49,767 ERROR c.o.s.UserServiceImpl [http-nio-8080-exec-1] Question Not Found
+2023-02-03 10:05:25,656 INFO c.o.s.UserServiceImpl [http-nio-8080-exec-3] Test Deleted Successfully
+2023-02-03 10:05:55,403 ERROR c.o.s.UserServiceImpl [http-nio-8080-exec-4] Test Not Found
+2023-02-03 10:09:36,985 INFO c.o.s.UserServiceTest [main] Starting UserServiceTest using Java 17.0.5 on lin33002318 with PID 12112 (started by rshaw8 in C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem)
+2023-02-03 10:09:36,994 DEBUG c.o.s.UserServiceTest [main] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-03 10:09:36,995 INFO c.o.s.UserServiceTest [main] No active profile set, falling back to 1 default profile: "default"
+2023-02-03 10:09:43,904 INFO c.o.s.UserServiceTest [main] Started UserServiceTest in 7.299 seconds (JVM running for 9.627)
+2023-02-03 10:19:07,067 INFO c.o.s.UserServiceImpl [http-nio-8080-exec-5] Question Deleted Successfully
+2023-02-03 11:17:34,674 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 10524 (C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\eclipse-workspace\online-test-sprint\onlinetestmanagementsystem)
+2023-02-03 11:17:34,682 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-03 11:17:34,683 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-03 11:17:38,555 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 4.217 seconds (JVM running for 5.454)
+2023-02-12 22:23:26,103 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 16364 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-12 22:23:26,108 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-12 22:23:26,108 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-12 22:23:28,955 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 3.117 seconds (JVM running for 3.821)
+2023-02-12 22:32:26,585 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 3860 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-12 22:32:26,593 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-12 22:32:26,594 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-12 22:35:38,849 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 12860 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-12 22:35:38,857 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-12 22:35:38,857 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-13 11:19:58,262 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 12140 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-13 11:19:58,273 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-13 11:19:58,274 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-13 11:22:07,805 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 14484 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-13 11:22:07,811 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-13 11:22:07,812 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-13 11:22:21,958 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 9760 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-13 11:22:21,964 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-13 11:22:21,964 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-13 11:23:11,125 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 12148 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-13 11:23:11,133 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-13 11:23:11,134 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-13 11:23:42,815 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 1788 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-13 11:23:42,822 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-13 11:23:42,823 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-13 11:23:46,124 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 3.587 seconds (JVM running for 4.499)
+2023-02-15 22:23:58,090 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 19584 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-15 22:23:58,098 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-15 22:23:58,098 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-15 22:24:02,004 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 4.223 seconds (JVM running for 5.284)
+2023-02-15 22:29:19,195 WARN c.o.s.UserServiceImpl [http-nio-8080-exec-8] User Already Exist
+2023-02-15 22:33:10,908 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 19584 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-15 22:33:10,909 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-15 22:33:10,909 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-15 22:33:11,730 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.867 seconds (JVM running for 555.016)
+2023-02-15 22:33:28,735 INFO c.o.s.UserServiceImpl [http-nio-8080-exec-6] User Deleted Successfully
+2023-02-15 22:34:11,292 ERROR c.o.s.UserServiceImpl [http-nio-8080-exec-7] User Not Found
+2023-02-15 22:35:57,871 WARN c.o.s.QuestionServiceImpl [http-nio-8080-exec-1] Question Already Exist
+2023-02-15 22:38:31,891 ERROR c.o.s.QuestionServiceImpl [http-nio-8080-exec-4] Question Not Found
+2023-02-15 22:39:32,576 INFO c.o.s.QuestionServiceImpl [http-nio-8080-exec-6] Question Deleted Successfully
+2023-02-15 22:39:39,282 ERROR c.o.s.QuestionServiceImpl [http-nio-8080-exec-7] Question Not Found
+2023-02-15 22:41:27,994 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 19584 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-15 22:41:27,994 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-15 22:41:27,995 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-15 22:41:28,868 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.922 seconds (JVM running for 1052.154)
+2023-02-15 22:41:45,032 ERROR o.h.e.j.s.SqlExceptionHelper [http-nio-8080-exec-5] ERROR: update or delete on table "user_details" violates foreign key constraint "fk5tyo2fsb4tha1cknmy6pkdvfv" on table "test_details"
+  Detail: Key (user_id)=(4) is still referenced from table "test_details".
+2023-02-15 22:51:25,261 ERROR c.o.s.TestServiceImpl [http-nio-8080-exec-7] Test Not Found
+2023-02-15 22:52:16,402 ERROR o.h.e.j.s.SqlExceptionHelper [http-nio-8080-exec-9] ERROR: update or delete on table "user_details" violates foreign key constraint "fk5tyo2fsb4tha1cknmy6pkdvfv" on table "test_details"
+  Detail: Key (user_id)=(6) is still referenced from table "test_details".
+2023-02-15 22:55:01,418 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 12988 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-15 22:55:01,425 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-15 22:55:01,425 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-15 22:55:04,665 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 3.542 seconds (JVM running for 4.495)
+2023-02-15 22:58:34,396 WARN c.o.s.TestServiceImpl [http-nio-8080-exec-8] Test Already Exist
+2023-02-15 23:04:10,605 WARN c.o.s.TestServiceImpl [http-nio-8080-exec-1] Test Already Exist
+2023-02-15 23:07:12,563 ERROR c.o.s.TestServiceImpl [http-nio-8080-exec-5] Test Not Found
+2023-02-15 23:08:17,621 ERROR c.o.s.TestServiceImpl [http-nio-8080-exec-7] Test Not Found
+2023-02-17 23:19:28,879 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 10820 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-17 23:19:28,886 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-17 23:19:28,886 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-17 23:19:32,697 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 4.133 seconds (JVM running for 5.17)
+2023-02-17 23:24:20,847 WARN c.o.s.UserServiceImpl [http-nio-8080-exec-8] User Already Exist
+2023-02-17 23:43:18,845 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 16924 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-17 23:43:18,853 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-17 23:43:18,854 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-17 23:43:21,970 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 3.401 seconds (JVM running for 4.296)
+2023-02-17 23:45:26,592 INFO c.o.s.UserServiceImpl [http-nio-8080-exec-1] User Deleted Successfully
+2023-02-17 23:45:32,728 ERROR c.o.s.UserServiceImpl [http-nio-8080-exec-2] User Not Found
+2023-02-17 23:46:09,369 WARN c.o.s.UserServiceImpl [http-nio-8080-exec-4] User Already Exist
+2023-02-17 23:48:03,750 WARN c.o.s.TestServiceImpl [http-nio-8080-exec-6] Test Already Exist
+2023-02-17 23:50:39,111 WARN c.o.s.TestServiceImpl [http-nio-8080-exec-10] Test Already Exist
+2023-02-17 23:55:16,750 ERROR c.o.s.TestServiceImpl [http-nio-8080-exec-5] Test Not Found
+2023-02-17 23:59:42,035 INFO c.o.s.TestServiceImpl [http-nio-8080-exec-2] Test Deleted Successfully
+2023-02-17 23:59:47,106 ERROR c.o.s.TestServiceImpl [http-nio-8080-exec-4] Test Not Found
+2023-02-18 00:00:46,393 INFO c.o.s.QuestionServiceImpl [http-nio-8080-exec-3] Question Deleted Successfully
+2023-02-18 00:00:50,448 ERROR c.o.s.QuestionServiceImpl [http-nio-8080-exec-5] Question Not Found
+2023-02-18 00:03:44,680 WARN c.o.s.QuestionServiceImpl [http-nio-8080-exec-8] Question Already Exist
+2023-02-18 00:12:36,405 INFO c.o.s.QuestionServiceImpl [http-nio-8080-exec-9] Question Deleted Successfully
+2023-02-18 00:20:56,248 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 21944 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 00:20:56,255 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 00:20:56,255 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 00:20:59,504 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 3.536 seconds (JVM running for 4.409)
+2023-02-18 00:21:55,617 ERROR o.h.e.j.s.SqlExceptionHelper [http-nio-8080-exec-5] ERROR: update or delete on table "user_details" violates foreign key constraint "fk8xbqptr4pdetqexjhqucxvkfw" on table "test_details"
+  Detail: Key (user_id)=(3) is still referenced from table "test_details".
+2023-02-18 00:25:24,858 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 21944 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 00:25:24,858 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 00:25:24,858 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 00:25:25,729 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.918 seconds (JVM running for 270.634)
+2023-02-18 00:26:39,800 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 21944 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 00:26:39,800 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 00:26:39,800 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 00:26:40,662 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.902 seconds (JVM running for 345.567)
+2023-02-18 00:27:19,776 ERROR o.h.e.j.s.SqlExceptionHelper [http-nio-8080-exec-5] ERROR: update or delete on table "user_details" violates foreign key constraint "fk8xbqptr4pdetqexjhqucxvkfw" on table "test_details"
+  Detail: Key (user_id)=(3) is still referenced from table "test_details".
+2023-02-18 00:30:05,486 ERROR o.h.e.j.s.SqlExceptionHelper [http-nio-8080-exec-7] ERROR: update or delete on table "user_details" violates foreign key constraint "fk8xbqptr4pdetqexjhqucxvkfw" on table "test_details"
+  Detail: Key (user_id)=(3) is still referenced from table "test_details".
+2023-02-18 00:31:33,936 ERROR o.h.e.j.s.SqlExceptionHelper [http-nio-8080-exec-8] ERROR: update or delete on table "user_details" violates foreign key constraint "fk8xbqptr4pdetqexjhqucxvkfw" on table "test_details"
+  Detail: Key (user_id)=(3) is still referenced from table "test_details".
+2023-02-18 00:31:43,828 ERROR o.h.e.j.s.SqlExceptionHelper [http-nio-8080-exec-9] ERROR: update or delete on table "user_details" violates foreign key constraint "fk8xbqptr4pdetqexjhqucxvkfw" on table "test_details"
+  Detail: Key (user_id)=(3) is still referenced from table "test_details".
+2023-02-18 00:32:50,797 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 21944 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 00:32:50,797 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 00:32:50,797 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 00:32:51,603 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.854 seconds (JVM running for 716.509)
+2023-02-18 00:33:04,657 ERROR o.h.e.j.s.SqlExceptionHelper [http-nio-8080-exec-1] ERROR: update or delete on table "user_details" violates foreign key constraint "fk8xbqptr4pdetqexjhqucxvkfw" on table "test_details"
+  Detail: Key (user_id)=(3) is still referenced from table "test_details".
+2023-02-18 00:33:23,218 ERROR o.h.e.j.s.SqlExceptionHelper [http-nio-8080-exec-6] ERROR: update or delete on table "user_details" violates foreign key constraint "fk8xbqptr4pdetqexjhqucxvkfw" on table "test_details"
+  Detail: Key (user_id)=(3) is still referenced from table "test_details".
+2023-02-18 00:33:36,259 ERROR o.h.e.j.s.SqlExceptionHelper [http-nio-8080-exec-7] ERROR: update or delete on table "user_details" violates foreign key constraint "fk8xbqptr4pdetqexjhqucxvkfw" on table "test_details"
+  Detail: Key (user_id)=(3) is still referenced from table "test_details".
+2023-02-18 00:34:08,248 INFO c.o.s.UserServiceImpl [http-nio-8080-exec-8] User Deleted Successfully
+2023-02-18 00:34:33,814 INFO c.o.s.UserServiceImpl [http-nio-8080-exec-9] User Deleted Successfully
+2023-02-18 00:34:39,928 INFO c.o.s.UserServiceImpl [http-nio-8080-exec-10] User Deleted Successfully
+2023-02-18 00:45:34,608 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 13700 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 00:45:34,616 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 00:45:34,616 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 00:45:37,721 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 3.391 seconds (JVM running for 4.298)
+2023-02-18 00:46:01,194 ERROR o.h.e.j.s.SqlExceptionHelper [http-nio-8080-exec-5] ERROR: update or delete on table "test_details" violates foreign key constraint "fka4vutsurbbhckwr5l16cfvj6q" on table "question_details"
+  Detail: Key (test_id)=(23) is still referenced from table "question_details".
+2023-02-18 00:46:14,722 ERROR o.h.e.j.s.SqlExceptionHelper [http-nio-8080-exec-6] ERROR: update or delete on table "test_details" violates foreign key constraint "fka4vutsurbbhckwr5l16cfvj6q" on table "question_details"
+  Detail: Key (test_id)=(23) is still referenced from table "question_details".
+2023-02-18 00:49:55,407 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 13700 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 00:49:55,408 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 00:49:55,408 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 00:49:56,237 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.873 seconds (JVM running for 262.815)
+2023-02-18 00:50:17,210 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 13700 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 00:50:17,211 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 00:50:17,211 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 00:50:17,967 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.802 seconds (JVM running for 284.544)
+2023-02-18 01:06:03,345 INFO c.o.s.UserServiceTest [main] Starting UserServiceTest using Java 17.0.5 on lin33002318 with PID 12604 (started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 01:06:03,355 DEBUG c.o.s.UserServiceTest [main] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 01:06:03,355 INFO c.o.s.UserServiceTest [main] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 01:06:08,690 INFO c.o.s.UserServiceTest [main] Started UserServiceTest in 5.608 seconds (JVM running for 7.22)
+2023-02-18 01:07:10,945 INFO c.o.s.UserServiceTest [main] Starting UserServiceTest using Java 17.0.5 on lin33002318 with PID 13724 (started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 01:07:10,954 DEBUG c.o.s.UserServiceTest [main] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 01:07:10,955 INFO c.o.s.UserServiceTest [main] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 01:07:16,034 INFO c.o.s.UserServiceTest [main] Started UserServiceTest in 5.377 seconds (JVM running for 6.925)
+2023-02-18 01:07:40,661 INFO c.o.s.UserServiceTest [main] Starting UserServiceTest using Java 17.0.5 on lin33002318 with PID 8360 (started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 01:07:40,668 DEBUG c.o.s.UserServiceTest [main] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 01:07:40,669 INFO c.o.s.UserServiceTest [main] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 01:07:45,813 INFO c.o.s.UserServiceTest [main] Started UserServiceTest in 5.413 seconds (JVM running for 6.874)
+2023-02-18 01:09:42,681 INFO c.o.s.UserServiceTest [main] Starting UserServiceTest using Java 17.0.5 on lin33002318 with PID 20180 (started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 01:09:42,691 DEBUG c.o.s.UserServiceTest [main] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 01:09:42,692 INFO c.o.s.UserServiceTest [main] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 01:09:47,568 INFO c.o.s.UserServiceTest [main] Started UserServiceTest in 5.141 seconds (JVM running for 6.676)
+2023-02-18 12:54:06,132 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 21448 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 12:54:06,144 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 12:54:06,145 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 12:54:10,244 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 4.464 seconds (JVM running for 5.435)
+2023-02-18 12:55:19,582 ERROR o.h.e.j.s.SqlExceptionHelper [http-nio-8080-exec-6] ERROR: update or delete on table "test_details" violates foreign key constraint "fka4vutsurbbhckwr5l16cfvj6q" on table "question_details"
+  Detail: Key (test_id)=(23) is still referenced from table "question_details".
+2023-02-18 13:02:50,812 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 21448 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 13:02:50,812 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 13:02:50,812 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 13:02:51,675 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.906 seconds (JVM running for 526.866)
+2023-02-18 13:04:36,681 ERROR o.h.e.j.s.SqlExceptionHelper [http-nio-8080-exec-1] ERROR: update or delete on table "test_details" violates foreign key constraint "fka4vutsurbbhckwr5l16cfvj6q" on table "question_details"
+  Detail: Key (test_id)=(23) is still referenced from table "question_details".
+2023-02-18 13:07:07,643 ERROR o.h.e.j.s.SqlExceptionHelper [http-nio-8080-exec-2] ERROR: update or delete on table "test_details" violates foreign key constraint "fka4vutsurbbhckwr5l16cfvj6q" on table "question_details"
+  Detail: Key (test_id)=(23) is still referenced from table "question_details".
+2023-02-18 13:07:27,629 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 21448 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 13:07:27,629 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 13:07:27,629 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 13:07:28,412 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.827 seconds (JVM running for 803.604)
+2023-02-18 13:10:21,831 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 21448 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 13:10:21,831 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 13:10:21,832 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 13:10:22,677 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.89 seconds (JVM running for 977.869)
+2023-02-18 13:10:32,429 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 21448 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 13:10:32,429 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 13:10:32,429 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 13:10:33,271 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.882 seconds (JVM running for 988.462)
+2023-02-18 13:10:39,958 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 21448 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 13:10:39,959 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 13:10:39,959 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 13:10:40,787 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.872 seconds (JVM running for 995.978)
+2023-02-18 13:11:01,790 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 21448 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 13:11:01,791 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 13:11:01,791 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 13:12:11,778 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 21448 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 13:12:11,778 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 13:12:11,778 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 13:12:46,172 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 21448 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 13:12:46,173 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 13:12:46,173 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 13:12:46,946 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.838 seconds (JVM running for 1122.139)
+2023-02-18 13:13:00,612 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 21448 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 13:13:00,613 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 13:13:00,613 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 13:13:01,400 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.824 seconds (JVM running for 1136.594)
+2023-02-18 13:13:17,270 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 21448 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 13:13:17,270 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 13:13:17,271 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 13:13:18,045 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.813 seconds (JVM running for 1153.24)
+2023-02-18 13:13:28,847 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 21448 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 13:13:28,848 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 13:13:28,848 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 13:13:29,684 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.877 seconds (JVM running for 1164.879)
+2023-02-18 13:13:33,229 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 21448 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 13:13:33,229 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 13:13:33,230 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 13:13:34,058 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.867 seconds (JVM running for 1169.254)
+2023-02-18 13:16:04,403 INFO c.o.s.UserServiceTest [main] Starting UserServiceTest using Java 17.0.5 on lin33002318 with PID 11648 (started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 13:16:04,415 DEBUG c.o.s.UserServiceTest [main] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 13:16:04,417 INFO c.o.s.UserServiceTest [main] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 13:16:09,310 INFO c.o.s.UserServiceTest [main] Started UserServiceTest in 5.186 seconds (JVM running for 6.77)
+2023-02-18 16:44:17,450 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 14600 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 16:44:17,456 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 16:44:17,457 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 16:44:20,783 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 3.625 seconds (JVM running for 4.578)
+2023-02-18 16:44:35,790 INFO c.o.s.UserServiceTest [main] Starting UserServiceTest using Java 17.0.5 on lin33002318 with PID 18848 (started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 16:44:35,801 DEBUG c.o.s.UserServiceTest [main] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 16:44:35,802 INFO c.o.s.UserServiceTest [main] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 16:44:40,657 INFO c.o.s.UserServiceTest [main] Started UserServiceTest in 5.188 seconds (JVM running for 6.742)
+2023-02-18 17:24:54,729 INFO c.o.s.UserServiceTest [main] Starting UserServiceTest using Java 17.0.5 on lin33002318 with PID 10996 (started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 17:24:54,737 DEBUG c.o.s.UserServiceTest [main] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 17:24:54,737 INFO c.o.s.UserServiceTest [main] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 17:25:00,459 INFO c.o.s.UserServiceTest [main] Started UserServiceTest in 6.016 seconds (JVM running for 7.826)
+2023-02-18 17:43:52,129 INFO c.o.s.UserServiceTest [main] Starting UserServiceTest using Java 17.0.5 on lin33002318 with PID 19944 (started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-18 17:43:52,144 DEBUG c.o.s.UserServiceTest [main] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-18 17:43:52,146 INFO c.o.s.UserServiceTest [main] No active profile set, falling back to 1 default profile: "default"
+2023-02-18 17:43:57,644 INFO c.o.s.UserServiceTest [main] Started UserServiceTest in 5.907 seconds (JVM running for 7.857)
+2023-02-19 02:17:53,943 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 14468 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 02:17:53,952 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 02:17:53,953 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 02:20:30,468 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 8900 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 02:20:30,473 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 02:20:30,474 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 02:29:51,130 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 18420 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 02:29:51,136 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 02:29:51,136 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 02:29:54,587 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 3.736 seconds (JVM running for 4.665)
+2023-02-19 02:31:16,055 INFO c.o.s.UserServiceTest [main] Starting UserServiceTest using Java 17.0.5 on lin33002318 with PID 12840 (started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 02:31:16,064 DEBUG c.o.s.UserServiceTest [main] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 02:31:16,065 INFO c.o.s.UserServiceTest [main] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 02:31:21,050 INFO c.o.s.UserServiceTest [main] Started UserServiceTest in 5.275 seconds (JVM running for 6.87)
+2023-02-19 19:43:38,409 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 4948 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 19:43:38,417 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 19:43:38,418 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 19:43:42,599 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 4.486 seconds (JVM running for 5.747)
+2023-02-19 19:47:58,094 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 4948 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 19:47:58,095 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 19:47:58,095 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 19:47:58,949 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.909 seconds (JVM running for 262.098)
+2023-02-19 19:49:41,910 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 4948 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 19:49:41,910 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 19:49:41,910 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 19:49:42,828 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.959 seconds (JVM running for 365.978)
+2023-02-19 19:50:36,604 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 4948 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 19:50:36,604 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 19:50:36,605 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 19:50:37,480 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.92 seconds (JVM running for 420.629)
+2023-02-19 19:50:41,007 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 4948 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 19:50:41,008 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 19:50:41,008 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 19:50:41,829 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.857 seconds (JVM running for 424.978)
+2023-02-19 19:51:21,249 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 4948 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 19:51:21,250 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 19:51:21,250 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 19:51:22,025 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.814 seconds (JVM running for 465.174)
+2023-02-19 19:52:16,805 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 4948 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 19:52:16,806 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 19:52:16,806 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 19:52:17,550 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.787 seconds (JVM running for 520.7)
+2023-02-19 19:53:46,303 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 4948 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 19:53:46,303 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 19:53:46,303 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 19:53:47,162 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.894 seconds (JVM running for 610.311)
+2023-02-19 19:55:46,657 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 4948 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 19:55:46,658 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 19:55:46,658 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 19:55:47,540 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.918 seconds (JVM running for 730.69)
+2023-02-19 19:56:43,309 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 4948 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 19:56:43,310 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 19:56:43,310 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 19:56:44,135 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.863 seconds (JVM running for 787.285)
+2023-02-19 20:00:51,854 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 4948 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 20:00:51,855 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 20:00:51,855 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 20:00:52,578 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.761 seconds (JVM running for 1035.729)
+2023-02-19 20:03:20,397 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 4948 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 20:03:20,398 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 20:03:20,398 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 20:03:21,381 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 1.04 seconds (JVM running for 1184.531)
+2023-02-19 21:23:51,279 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 11132 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 21:23:51,290 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 21:23:51,291 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 21:23:54,976 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 4.025 seconds (JVM running for 5.26)
+2023-02-19 21:25:44,878 INFO c.o.s.UserServiceImpl [http-nio-8080-exec-1] User Deleted Successfully
+2023-02-19 21:26:11,162 ERROR c.o.s.UserServiceImpl [http-nio-8080-exec-2] User Not Found
+2023-02-19 21:27:43,063 ERROR o.h.e.j.s.SqlExceptionHelper [http-nio-8080-exec-4] Bad value for type timestamp/date/time: 00
+2023-02-19 21:30:10,785 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 18900 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 21:30:10,793 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 21:30:10,794 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 21:30:14,406 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 3.92 seconds (JVM running for 5.069)
+2023-02-19 21:30:41,515 ERROR o.h.e.j.s.SqlExceptionHelper [http-nio-8080-exec-1] Bad value for type timestamp/date/time: 00
+2023-02-19 21:47:21,611 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 17244 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 21:47:21,617 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 21:47:21,618 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 21:47:24,826 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 3.507 seconds (JVM running for 4.366)
+2023-02-19 21:47:38,660 ERROR o.h.e.j.s.SqlExceptionHelper [http-nio-8080-exec-5] Bad value for type timestamp/date/time: 00
+2023-02-19 21:48:26,493 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 2928 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 21:48:26,498 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 21:48:26,499 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 21:48:29,774 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 3.57 seconds (JVM running for 4.438)
+2023-02-19 21:49:57,276 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 2928 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 21:49:57,277 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 21:49:57,277 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 21:49:58,204 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.973 seconds (JVM running for 92.867)
+2023-02-19 21:50:14,078 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 2928 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 21:50:14,079 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 21:50:14,079 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 21:50:14,888 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.861 seconds (JVM running for 109.552)
+2023-02-19 21:50:18,467 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 2928 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 21:50:18,468 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 21:50:18,468 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 21:50:19,247 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.825 seconds (JVM running for 113.91)
+2023-02-19 21:51:18,641 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 2928 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 21:51:18,642 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 21:51:18,643 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 21:51:19,056 ERROR o.s.o.j.LocalContainerEntityManagerFactoryBean [restartedMain] Failed to initialize JPA EntityManagerFactory: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Could not determine type for: java.util.Set, at table: question_details, for columns: [org.hibernate.mapping.Column(question_options)]
+2023-02-19 21:51:50,818 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 2928 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 21:51:50,818 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 21:51:50,819 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 21:51:51,159 ERROR o.s.o.j.LocalContainerEntityManagerFactoryBean [restartedMain] Failed to initialize JPA EntityManagerFactory: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Could not determine type for: java.util.Set, at table: question_details, for columns: [org.hibernate.mapping.Column(question_options)]
+2023-02-19 21:57:04,871 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 11268 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 21:57:04,877 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 21:57:04,877 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 21:57:07,488 ERROR o.s.o.j.LocalContainerEntityManagerFactoryBean [restartedMain] Failed to initialize JPA EntityManagerFactory: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Could not determine type for: java.util.Set, at table: question_details, for columns: [org.hibernate.mapping.Column(question_options)]
+2023-02-19 21:59:14,958 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 21340 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 21:59:14,964 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 21:59:14,965 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 21:59:17,518 ERROR o.s.o.j.LocalContainerEntityManagerFactoryBean [restartedMain] Failed to initialize JPA EntityManagerFactory: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Could not determine type for: java.util.List, at table: question_details, for columns: [org.hibernate.mapping.Column(question_options)]
+2023-02-19 22:00:29,179 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 21488 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 22:00:29,186 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 22:00:29,187 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 22:00:31,285 ERROR o.s.o.j.LocalContainerEntityManagerFactoryBean [restartedMain] Failed to initialize JPA EntityManagerFactory: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Could not determine type for: java.util.List, at table: question_details, for columns: [org.hibernate.mapping.Column(question_options)]
+2023-02-19 22:09:57,218 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 1224 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 22:09:57,224 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 22:09:57,224 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 22:10:00,843 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 3.928 seconds (JVM running for 4.922)
+2023-02-19 22:11:47,199 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 1224 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 22:11:47,199 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 22:11:47,199 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 22:11:48,176 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 1.031 seconds (JVM running for 112.255)
+2023-02-19 22:12:19,916 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 1224 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 22:12:19,917 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 22:12:19,917 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 22:12:20,821 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.951 seconds (JVM running for 144.9)
+2023-02-19 22:16:10,520 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 1224 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 22:16:10,521 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 22:16:10,521 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 22:16:10,859 ERROR o.s.o.j.LocalContainerEntityManagerFactoryBean [restartedMain] Failed to initialize JPA EntityManagerFactory: Illegal attempt to map a non collection as a @OneToMany, @ManyToMany or @CollectionOfElements: com.onlinetestmanagementsystem.model.Test.user
+2023-02-19 22:25:08,968 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 18048 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 22:25:08,978 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 22:25:08,979 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 22:25:12,211 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 3.574 seconds (JVM running for 4.478)
+2023-02-19 22:51:42,091 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 19360 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 22:51:42,098 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 22:51:42,098 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 22:51:45,772 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 4.008 seconds (JVM running for 5.112)
+2023-02-19 22:53:27,620 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 18740 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 22:53:27,625 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 22:53:27,626 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 22:53:31,230 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 3.907 seconds (JVM running for 4.827)
+2023-02-19 23:02:30,222 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 19964 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 23:02:30,228 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 23:02:30,229 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 23:02:33,607 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 3.655 seconds (JVM running for 4.559)
+2023-02-19 23:04:54,204 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 19964 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 23:04:54,204 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 23:04:54,204 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 23:04:54,637 ERROR o.s.o.j.LocalContainerEntityManagerFactoryBean [restartedMain] Failed to initialize JPA EntityManagerFactory: @Column(s) not allowed on a @ManyToOne property: com.onlinetestmanagementsystem.model.UserTestDetails.test
+2023-02-19 23:06:21,757 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 19964 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 23:06:21,758 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 23:06:21,758 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 23:06:22,099 ERROR o.s.o.j.LocalContainerEntityManagerFactoryBean [restartedMain] Failed to initialize JPA EntityManagerFactory: @Column(s) not allowed on a @ManyToOne property: com.onlinetestmanagementsystem.model.UserTestDetails.test
+2023-02-19 23:06:33,651 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 19964 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 23:06:33,652 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 23:06:33,652 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 23:06:34,032 ERROR o.s.o.j.LocalContainerEntityManagerFactoryBean [restartedMain] Failed to initialize JPA EntityManagerFactory: @Column(s) not allowed on a @ManyToOne property: com.onlinetestmanagementsystem.model.UserTestDetails.test
+2023-02-19 23:06:46,577 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 19964 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 23:06:46,578 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 23:06:46,578 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 23:06:47,505 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.969 seconds (JVM running for 258.46)
+2023-02-19 23:08:40,917 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 19964 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 23:08:40,918 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 23:08:40,918 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 23:08:41,874 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 1.0 seconds (JVM running for 372.83)
+2023-02-19 23:09:20,691 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 19964 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 23:09:20,692 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 23:09:20,692 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 23:10:13,950 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 19964 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 23:10:13,950 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 23:10:13,950 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 23:10:14,743 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.826 seconds (JVM running for 465.699)
+2023-02-19 23:10:16,246 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 19964 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 23:10:16,249 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 23:10:16,249 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 23:10:17,420 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 1.214 seconds (JVM running for 468.376)
+2023-02-19 23:10:22,938 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 19964 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 23:10:22,938 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 23:10:22,938 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 23:10:23,772 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.873 seconds (JVM running for 474.729)
+2023-02-19 23:10:25,298 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 19964 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 23:10:25,298 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 23:10:25,298 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 23:10:26,436 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 1.18 seconds (JVM running for 477.392)
+2023-02-19 23:10:36,018 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 19964 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 23:10:36,018 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 23:10:36,019 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 23:10:36,917 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 0.932 seconds (JVM running for 487.874)
+2023-02-19 23:20:50,007 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 19964 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 23:20:50,008 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 23:20:50,008 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 23:20:51,340 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 1.395 seconds (JVM running for 1102.299)
+2023-02-19 23:21:40,837 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 19964 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 23:21:40,838 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 23:21:40,838 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 23:21:41,934 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 1.139 seconds (JVM running for 1152.894)
+2023-02-19 23:22:25,874 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 20508 (C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\onlinetestmanagementsystem)
+2023-02-19 23:22:25,882 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-19 23:22:25,883 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-19 23:22:29,565 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 3.977 seconds (JVM running for 4.993)
+2023-02-19 23:31:49,071 ERROR c.o.s.UserServiceImpl [http-nio-8080-exec-8] User Not Found
+2023-02-19 23:32:02,259 ERROR c.o.s.QuestionServiceImpl [http-nio-8080-exec-6] Question Not Found
+2023-02-19 23:32:13,984 ERROR c.o.s.TestServiceImpl [http-nio-8080-exec-7] Test Not Found
+2023-02-19 23:32:27,201 ERROR c.o.s.QuestionServiceImpl [http-nio-8080-exec-9] Question Not Found
+2023-02-21 03:05:34,550 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 5160 (C:\Users\RSHAW8\online-test-sprint\backend\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\backend\onlinetestmanagementsystem)
+2023-02-21 03:05:34,555 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-21 03:05:34,556 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-21 03:05:37,937 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 3.719 seconds (JVM running for 4.713)
+2023-02-21 03:06:36,979 ERROR c.o.s.TestServiceImpl [http-nio-8080-exec-6] Test Not Found
+2023-02-21 11:26:29,670 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Starting OnlinetestmanagementsystemApplication using Java 17.0.5 on lin33002318 with PID 21928 (C:\Users\RSHAW8\online-test-sprint\backend\onlinetestmanagementsystem\bin\main started by rshaw8 in C:\Users\RSHAW8\online-test-sprint\backend\onlinetestmanagementsystem)
+2023-02-21 11:26:29,679 DEBUG c.o.OnlinetestmanagementsystemApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-21 11:26:29,680 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-21 11:26:34,020 INFO c.o.OnlinetestmanagementsystemApplication [restartedMain] Started OnlinetestmanagementsystemApplication in 4.757 seconds (JVM running for 5.904)

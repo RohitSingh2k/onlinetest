@@ -1,0 +1,16 @@
+package com.onlinetestmanagementsystem.exception;
+
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+@NoArgsConstructor
+@AllArgsConstructor
+@Getter
+@Setter
+
+public class QuestionNotFoundException extends Exception {
+	private String message;
+
+}
